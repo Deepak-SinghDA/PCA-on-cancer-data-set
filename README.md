@@ -5,7 +5,7 @@
 ++ •	Statistical & Mathematical concept behind PCA
 + In this article, more emphasis will be given to the two programming languages (R and Python) which we use to perform PCA. 
 + At the end of the article, you will see the difference between R and Python in terms of performing PCA.
-+  **About Data Set**
+###  **About Data Set**
    -  The dataset that we use for PCA is directly available in Scikit-learn.  This dataset contains breast cancer data of 569 females (observations). 
    -  The dimensionality of the dataset is 30. 
    - It means that there are 30 attributes (characteristics) for each female (observation) in the dataset.
